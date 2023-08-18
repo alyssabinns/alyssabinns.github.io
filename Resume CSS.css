@@ -1,0 +1,43 @@
+#container {
+	margin-top: 20px;
+	margin-left: 200px;
+	margin-right: 200px;
+
+	padding: 10px 150px 10px 150px;
+
+	border-radius: 15px;
+	background-color: #8e66ee;
+
+	text-align: left;
+}
+
+#content-experience {
+	font-size: 30px;
+}
+
+h1 {
+	font-size: 45px;
+	margin-bottom: -20px;
+}
+
+h2 {
+	font-size: 26px;
+	margin-bottom: -6px;
+}
+
+h3 {
+	font-size: 20px;
+	margin-bottom: -10px;
+}
+
+h4 {
+	font-size: 18px;
+	margin-bottom: -10px;
+}
+
+li {
+	font-size: 18px;
+	text-align: left;
+}
+
+
